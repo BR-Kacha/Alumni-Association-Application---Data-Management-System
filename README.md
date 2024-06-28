@@ -38,8 +38,8 @@ The application will generate the following:
 An example of the input data format and the output directory structure is provided in the repository. Note that the actual data has been removed for privacy reasons, and only the empty files with row and column names are shared.
 
 ## Files in the Repository
-- `app.py`: The final GUI Python code for the application.
-- `alumni_data_management.exe`: The executable file for easy execution.
+- `GUI_of_AlumniDataEntry.py`: The final GUI Python code for the application.
+- Search for `Alumni Association Application.exe` executable file for easy execution in 'EXE_Alumni_asso_(One directory Mode)' directory.
 - `input_data_format.xlsx`: The input data format file.
 - `sample_output`: A directory containing the example output structure with empty files.
 - `SRS Document.pdf`: The Software Requirement Specification Document for the project.
