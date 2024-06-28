@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\brkac\\OneDrive\\Desktop\\yolo3",
+  "password": false,
+  "pid": 22820,
+  "port": 8889,
+  "secure": false,
+  "sock": "",
+  "token": "5dd01b7e9c7345fb20a63becc8d6befbb199fd9569975710",
+  "url": "http://localhost:8889/"
+}
