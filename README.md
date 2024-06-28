@@ -4,7 +4,7 @@
 This application is designed to efficiently manage the alumni data of Atmiya University by organizing it into various departments, branches, and graduation years. It creates separate Excel files for each branch within their respective department directories, removes duplicate entries, and provides visual representations of the yearwise data. This tool saves significant time compared to manual data sorting, providing quick and accurate results in just a few seconds.
 
 ## Author
-- Brijraj R. Kacha | LinkedIn: [Link Text]https://www.linkedin.com/in/brijraj-kacha/
+- Brijraj R. Kacha | LinkedIn: [https://www.linkedin.com/in/brijraj-kacha/]
 
 ## Features
 - Filters and organizes alumni data by departments, branches, and graduation years.
